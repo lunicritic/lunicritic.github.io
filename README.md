@@ -53,29 +53,6 @@ Four Temperaments:
 Melancholic - 
 Sanguine - 
 
-
-
-
-<h1 align="center">Hi 👋, I'm lunicritic</h1>
-<h3 align="center">dumb loser</h3>
-
-- 🔭 I’m currently working on [avl](https://discord.gg/WxWYDCt9tT)
-
-- 🌱 I’m currently learning **life**
-
-- 👯 I’m looking to collaborate on [rvl](https://discord.gg/volleyball)
-
-- 🤝 I’m looking for help with **my life**
-
-- 💬 Ask me about **philosophy im a so5**
-
-- 📫 How to reach me **criticalthrowaway45911203443@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/critsvods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="critsvods" height="30" width="40" /></a>
-</p>
-
 Moral Alignment:  
 Lawful - 
 Good - 
